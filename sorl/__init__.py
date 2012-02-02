@@ -1,7 +1,7 @@
 import logging
 
 
-__version__ = '11.12custom'
+__version__ = '11.12'
 VERSION = tuple(map(int, __version__.split('.')))
 
 

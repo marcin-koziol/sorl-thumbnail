@@ -11,7 +11,7 @@ class TestCommand(test):
 
 setup(
     name='sorl-thumbnail',
-    version=sorl.__version__,
+    version=sorl.__version__+'custom',
     description='Thumbnails for Django',
     long_description=open('README.rst').read(),
     author='Mikko Hellsing',
